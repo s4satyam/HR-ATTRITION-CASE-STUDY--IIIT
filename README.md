@@ -52,11 +52,11 @@ Develop a model to identify whether a employee will leave a company or not.
 # In and out time dataset give the employee working hours and their leaves taken 
 
 
-#################################METHODS###################################################################################
+####METHODS#########
 Logistic Regression With STEPAIC.
 
-#                                              CONCLUSIONS
-#####################################################################################################
+#                                    CONCLUSIONS
+################################################################
 #Our Logistic Regression model is able to predict with 77% accuracy.
 #Sensitivity is more important to us.
 #Overall Accuracy was 84%.
