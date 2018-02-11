@@ -2,15 +2,15 @@
 Develop a model to identify whether a employee will leave a company or not.
 
 #                                 Business Understanding
-##################################################################################################################################
+
 
  Basically in large companies, employee count will affect the business drastically . If a new employee enters the organisation,there needs to be a initial understanding about the business and internal logistics.Lot of KT and several trainings has to be given to the employees inorder to make them productive.If an employee leave the company, they need to be replaced with the talent pool available 
  in the job market and also the projects and their timelines will get delayed which leads to a reputation loss among consumers and partners as well as the money.So, we are developing a model which will predict the probability of employee attrition, 
  which helps company to be proactive.
 
-##################################################################################################################################
+
 #                                 Data Understanding
-##################################################################################################################################
+
 
 
 # Age gives  age of the employee	
@@ -46,11 +46,11 @@ Develop a model to identify whether a employee will leave a company or not.
 # In and out time dataset give the employee working hours and their leaves taken 
 
 
-####METHODS#########
+# Methods
 Logistic Regression With STEPAIC.
 
-#                                    CONCLUSIONS
-################################################################
+# Conclusion
+
 #Our Logistic Regression model is able to predict with 77% accuracy.
 #Sensitivity is more important to us.
 #Overall Accuracy was 81%.
@@ -59,7 +59,7 @@ Logistic Regression With STEPAIC.
 #KS Statistics for the model is 54% which indicates our model is fairly good and accurate.
 
 #   Recommendations are as follows:
-#1. Company should takes some actions to improve work life balance of employees.
-#2. Working environment should be improved. Employees should get regular breaks. Quizes and indoor games should be promoted.
-#3. Managers should not be changed very frequently.
-#4. For Frequently traveling employees, company should take some steps to keep them in our company.
+#Company should takes some actions to improve work life balance of employees.
+ Working environment should be improved. Employees should get regular breaks. Quizes and indoor games should be promoted.
+ Managers should not be changed very frequently.
+ For Frequently traveling employees, company should take some steps to keep them in our company.
