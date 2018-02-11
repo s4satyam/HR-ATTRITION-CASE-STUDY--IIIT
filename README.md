@@ -4,15 +4,9 @@ Develop a model to identify whether a employee will leave a company or not.
 #                                 Business Understanding
 ##################################################################################################################################
 
-# Basically in large companies, employee count will affect the business drastically .
-# If a new employee enters the organisation,there needs to be a initial understanding 
-# about the business and internal logistics.
-# Lot of KT and several trainings has to be given to the employees inorder to make them productive.
-# If an employee leave the company, they need to be replaced with the talent pool available 
-# in the job market and also the projects and their timelines will get delayed which leads 
-# to a reputation loss among consumers and partners as well as the money.
-# So, we are developing a model which will predict the probability of employee attrition, 
-# which helps company to be proactive
+ Basically in large companies, employee count will affect the business drastically . If a new employee enters the organisation,there needs to be a initial understanding about the business and internal logistics.Lot of KT and several trainings has to be given to the employees inorder to make them productive.If an employee leave the company, they need to be replaced with the talent pool available 
+ in the job market and also the projects and their timelines will get delayed which leads to a reputation loss among consumers and partners as well as the money.So, we are developing a model which will predict the probability of employee attrition, 
+ which helps company to be proactive.
 
 ##################################################################################################################################
 #                                 Data Understanding
