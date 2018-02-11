@@ -53,9 +53,9 @@ Logistic Regression With STEPAIC.
 ################################################################
 #Our Logistic Regression model is able to predict with 77% accuracy.
 #Sensitivity is more important to us.
-#Overall Accuracy was 84%.
+#Overall Accuracy was 81%.
 #Sensitivity  of our model is 81% i.e. it correctly identifies 81% of employees which are likely to leave the company.
-#Specificity of our model is 84% i.e. it correctly identifies 80% of employees which are not likely to leave the company.
+#Specificity of our model is 80% i.e. it correctly identifies 80% of employees which are not likely to leave the company.
 #KS Statistics for the model is 54% which indicates our model is fairly good and accurate.
 
 #   Recommendations are as follows:
